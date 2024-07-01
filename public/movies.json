@@ -138,5 +138,12 @@
     "image": "20.jpg",
     "genre": "horror",
     "rating": "7.4"
+  },
+  {
+    "id": 21,
+    "title": "Two Dudes Kissing",
+    "image": "E7GHBjKWQAEMdmm.jpg",
+    "genre": "drama",
+    "rating": "9.9"
   }
 ]
